@@ -245,3 +245,130 @@ var display = document.getElementById('display'),
       dialedNumber = 0
       dot = 0
     })
+
+    //Animacion Teclas
+    b1.onmousedown = function(){
+      b1.style.transform = "scale(0.95, 0.95)";
+    }
+    b1.onmouseup = function(){
+      b1.style.transform = "scale(1, 1)";
+    }
+
+    b2.onmousedown = function(){
+      b2.style.transform = "scale(0.95, 0.95)";
+    },
+    b2.onmouseup = function(){
+      b2.style.transform = "scale(1, 1)";
+    }
+
+    b3.onmousedown = function(){
+      b3.style.transform = "scale(0.95, 0.95)";
+    },
+    b3.onmouseup = function(){
+      b3.style.transform = "scale(1, 1)";
+    }
+
+    b4.onmousedown = function(){
+      b4.style.transform = "scale(0.95, 0.95)";
+    },
+    b4.onmouseup = function(){
+      b4.style.transform = "scale(1, 1)";
+    }
+
+    b5.onmousedown = function(){
+      b5.style.transform = "scale(0.95, 0.95)";
+    },
+    b5.onmouseup = function(){
+      b5.style.transform = "scale(1, 1)";
+    }
+
+    b6.onmousedown = function(){
+      b6.style.transform = "scale(0.95, 0.95)";
+    },
+    b6.onmouseup = function(){
+      b6.style.transform = "scale(1, 1)";
+    }
+
+    b7.onmousedown = function(){
+      b7.style.transform = "scale(0.95, 0.95)";
+    },
+    b7.onmouseup = function(){
+      b7.style.transform = "scale(1, 1)";
+    }
+
+    b8.onmousedown = function(){
+      b8.style.transform = "scale(0.95, 0.95)";
+    },
+    b8.onmouseup = function(){
+      b8.style.transform = "scale(1, 1)";
+    }
+
+    b9.onmousedown = function(){
+      b9.style.transform = "scale(0.95, 0.95)";
+    },
+    b9.onmouseup = function(){
+      b9.style.transform = "scale(1, 1)";
+    }
+
+    b0.onmousedown = function(){
+      b0.style.transform = "scale(0.95, 0.95)";
+    },
+    b0.onmouseup = function(){
+      b0.style.transform = "scale(1, 1)";
+    }
+
+    bmas.onmousedown = function(){
+      bmas.style.transform = "scale(0.95, 0.95)";
+    },
+    bmas.onmouseup = function(){
+      bmas.style.transform = "scale(1, 1)";
+    }
+
+    bmenos.onmousedown = function(){
+      bmenos.style.transform = "scale(0.95, 0.95)";
+    },
+    bmenos.onmouseup = function(){
+      bmenos.style.transform = "scale(1, 1)";
+    }
+
+    bpor.onmousedown = function(){
+      bpor.style.transform = "scale(0.95, 0.95)";
+    },
+    bpor.onmouseup = function(){
+      bpor.style.transform = "scale(1, 1)";
+    }
+
+    bdiv.onmousedown = function(){
+      bdiv.style.transform = "scale(0.95, 0.95)";
+    },
+    bdiv.onmouseup = function(){
+      bdiv.style.transform = "scale(1, 1)";
+    }
+
+    bclear.onmousedown = function(){
+      bclear.style.transform = "scale(0.95, 0.95)";
+    },
+    bclear.onmouseup = function(){
+      bclear.style.transform = "scale(1, 1)";
+    }
+
+    bsign.onmousedown = function(){
+      bsign.style.transform = "scale(0.95, 0.95)";
+    },
+    bsign.onmouseup = function(){
+      bsign.style.transform = "scale(1, 1)";
+    }
+
+    bigual.onmousedown = function(){
+      bigual.style.transform = "scale(0.95, 0.95)";
+    },
+    bigual.onmouseup = function(){
+      bigual.style.transform = "scale(1, 1)";
+    }
+
+    bpunto.onmousedown = function(){
+      bpunto.style.transform = "scale(0.95, 0.95)";
+    },
+    bpunto.onmouseup = function(){
+      bpunto.style.transform = "scale(1, 1)";
+    }

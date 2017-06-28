@@ -230,3 +230,32 @@ bigual.addEventListener('click', function(e) {
   e.preventDefault()
   calculadora.igual()
 })
+
+//Animacion Teclas
+function mouse (tecla){
+  tecla.onmousedown = function(){
+    tecla.style.transform = "scale(0.95, 0.95)";
+  }
+  tecla.onmouseup = function(){
+    tecla.style.transform = "scale(1, 1)";
+  }
+}
+
+mouse(b1)
+mouse(b2)
+mouse(b3)
+mouse(b4)
+mouse(b5)
+mouse(b6)
+mouse(b7)
+mouse(b8)
+mouse(b9)
+mouse(b0)
+mouse(bmas)
+mouse(bmenos)
+mouse(bpor)
+mouse(bdiv)
+mouse(bclear)
+mouse(bsign)
+mouse(bigual)
+mouse(bpunto)
